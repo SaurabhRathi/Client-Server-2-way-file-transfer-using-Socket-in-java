@@ -10,7 +10,7 @@ Steps:
 4) Run Client file
 5) Type 'start' in the client console to recieve the modified file from the server.
 6) You will get the resultant file having word and the frequency of that word written in front of it.
-    Ex for the above example: usa-2 india-2 nepal-1 pakistan-1   
+    For the above example: usa-2 india-2 nepal-1 pakistan-1   
 
 
     
